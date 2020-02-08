@@ -1,2 +1,2 @@
 # aoc-2019
-Advent of Code 2019
+My solutions for the Advent of Code 2019.
